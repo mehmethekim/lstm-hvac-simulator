@@ -2,6 +2,7 @@ import gymnasium as gym
 import pandas as pd
 import sinergym
 import numpy as np
+import torch
 from environments.reward import *
 from environments.environment import create_environment
 from environments.environment import CO2_AND_TEMP_REWARD_CONFIG
