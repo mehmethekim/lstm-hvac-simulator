@@ -1,0 +1,24 @@
+# Ignore directories that start with A403-
+A403-*
+
+# Ignore directories that start with Eplus-env-
+Eplus-env-*
+
+# Ignore sinergym-env directory
+sinergym-env/
+
+EnergyPlusEnvironments/
+
+.lock
+
+__pycache__/
+
+plots/
+
+.DS_Store
+
+wandb/
+
+venv/
+
+simulation_data_*
